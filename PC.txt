@@ -1,2 +1,3 @@
 CPU: Ryzen 3600
 RAM: 16 GB
+Hard Disk: 500 GB
