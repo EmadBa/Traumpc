@@ -1,1 +1,2 @@
 CPU: Ryzen 3600
+RAM: 16 GB
